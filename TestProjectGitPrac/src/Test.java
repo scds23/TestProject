@@ -5,7 +5,6 @@ public class Test {
 		
 		System.out.println("Hi Rahul !"+"Hi");
 		
-		
 	}
 
 }
